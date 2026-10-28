@@ -15,9 +15,9 @@
 				<ul>
 					<li><a href="index.php">Home</a></li>
 					<li><a href="index.php">Produtos</a></li>
-					<li><a href="index.php?pagina=cadastro">Clientes</a></li>
+					<li><a href="cadastro_clientes.php">Clientes</a></li>
 					<li><a href="index.php">Sobre-Nós</a></li>
-					<li><a href="index.php">Minha Conta</a></li>
+					<li><a href="forms_cadastro.php">Minha Conta</a></li>
 					<li><a href="index.php">Carrinho</a></li>
 				</ul>
 			</nav>
@@ -39,7 +39,7 @@
 	 		break;
 	 	default:
 	 		echo "<h1>Conteudo Home </h1>";
-	 		echo "<p>Bem-Vindo ao Sistema Corpi!</p>";
+	 		echo "<p>Bem-Vindo ao Sistema Corpy!</p>";
 	 		break;
 	 } ?>
 </main>
